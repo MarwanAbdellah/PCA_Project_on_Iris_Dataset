@@ -30,10 +30,3 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 
 ## Results
 The PCA transformation helps in visualizing the separation between different species of iris flowers based on reduced dimensions, providing insights into the underlying structure of the dataset.
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
